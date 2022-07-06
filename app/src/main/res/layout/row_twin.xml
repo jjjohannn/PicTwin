@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/selectableItemBackground"
+    android:minHeight="?attr/minTouchTargetSize"
+    android:orientation="horizontal">
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/rt_tv_mine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/pic_mine"/>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/rt_tv_yours"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/pic_yours"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
