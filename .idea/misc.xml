@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/layout/row_twin.xml" value="0.33" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/layout/switch_item.xml" value="0.32916666666666666" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/menu/main_menu.xml" value="0.25" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.332" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/PicTwin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.332" />
