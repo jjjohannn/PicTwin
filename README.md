@@ -11,11 +11,11 @@ _Herramientas utilizadas_
 
 ## Librerias utilizadas
 
-* **LeakCanari
-* **MaterialDesign
-* **Lombok
-* **Google GSON
-* **Retrofit
+* LeakCanari
+* MaterialDesign
+* Lombok
+* Google GSON
+* Retrofit
 
 ## Autores ✒️
 
